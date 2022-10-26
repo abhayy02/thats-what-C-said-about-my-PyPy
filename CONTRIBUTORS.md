@@ -107,3 +107,8 @@
 - Place: Trivandrum, Kerala
 - Bio: Third Year B.Tech Computer Science Engineering Student with an eye for creativity.
 - GitHub: [TheNeerajaAnand](https://github.com/TheNeerajaAnand)
+
+#### Name: [ABHAY DAS](https://www.linkedin.com/in/abhayy02/)
+- Place: Thrissur,Kerala
+- Bio: Third year B.Tech Computer Science student 
+- GitHub: [abhayy02](https://github.com/abhayy02/)
